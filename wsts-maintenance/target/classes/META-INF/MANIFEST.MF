@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: maintenance
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cesio126
+Implementation-Vendor-Id: br.com.rio
+Build-Jdk: 1.8.0_265
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/maintenance
+Created-By: Maven Integration for Eclipse
+
