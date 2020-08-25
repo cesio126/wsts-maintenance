@@ -1,7 +1,7 @@
 <h1> READ-ME </h1>
 	<h2> Maintennce </h2>
 	<ul>
-		<li> Get the token in the url - https://api.truck-state.rio.cloud/trucks. </li>
+		<li> Get the token in the url - https://api.wsts-state.com/trucks. </li>
 		<li> change the property - app.set.token.barrer - in the application.properties file. </li>
 		<li> Uploading the application loads the tables. </li>
 		<li> to get all vehicles access the link - localhost:8082/vehicle - passing the "field" and "page" parameters with the basic authorization type and user: user and password: 234, this user is created by default . </li>
